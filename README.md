@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @WanderingDrunk
 - 👀 I’m interested in sleeping
-- 🌱 I’m currently learning Java, C, Python, React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning Java, C, Python, React, Rust
+- 📫 How to reach me ... arnas.j.kavaliauskas@gmail.com
 - ⚡ Fun fact: I Procrastinate too much :/
 
 <!---
