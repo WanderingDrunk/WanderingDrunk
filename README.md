@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WanderingDrunk
+- 👋 Hi, I’m @ArnasK
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning Java, C, Python, React, Rust
 - 📫 How to reach me ... arnas.j.kavaliauskas@gmail.com
